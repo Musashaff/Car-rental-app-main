@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+Car-rental-project/backend/node_modules/
+Car-rental-project/frontend/node_modules/
+
+# Build output
+Car-rental-project/frontend/dist/
+Car-rental-project/backend/dist/
+
+# dotenv environment variables
+Car-rental-project/backend/.env
+Car-rental-project/frontend/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.local
+*.cache
