@@ -1,0 +1,1 @@
+// UpdateRental.jsx placeholder

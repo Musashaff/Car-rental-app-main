@@ -1,0 +1,1 @@
+// rentalController.js placeholder
